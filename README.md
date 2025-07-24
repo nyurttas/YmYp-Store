@@ -1,3 +1,8 @@
+# Elektronik Online Mağaza Uygulaması
+
+Bu proje, JavaScript kullanılarak geliştirilmiş temel bir Elektronik Online Mağaza uygulamasıdır. Kullanıcılar elektronik ürünleri görebilir, sepete ekleyebilir ve sipariş verebilirler.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
